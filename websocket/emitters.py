@@ -135,7 +135,7 @@ async def tp_boost_emit(**kwargs: Unpack[TopicEmitter]):
         tap_bot=BoosterDetailOutboundData(
             level=user_data["tap_bot"],
             is_max=user_data['tap_bot'] == len(LEVELS['bot']),
-            next_level_price=LEVELS["bot"][user_data["tap_bot"]]
+            next_level_price=LEVELS["bot"][0]
         )
     )
     await send_wss_msg(ws, Topics.BOOST, result, True)

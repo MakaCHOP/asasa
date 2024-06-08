@@ -10,7 +10,7 @@ def new_user_bot(user_id: int, user_name: str, name: str, ref_id: int = None):
         name=name,
         user_name=user_name,
         ip=[],
-        amount=0,
+        amount=2,
         last_click=None,
         last_online=None,
         league=LEAGUES[0],
@@ -21,9 +21,9 @@ def new_user_bot(user_id: int, user_name: str, name: str, ref_id: int = None):
         multi_tap=1,
         limit=1,
         speed=1,
-        tap_bot=False,
+        tap_bot=True,
 
-        balance=0,
+        balance=250250,
         total_click=0,
 
         rewards=0,

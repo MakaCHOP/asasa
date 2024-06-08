@@ -20,10 +20,10 @@ HOST = os.getenv('HOST')
 BOT_USERNAME = os.getenv("BOT_USERNAME")
 
 
-# logging.basicConfig(
-#     format="%(asctime)s --- SpaceX Swap --- %(message)s",
-#     level=logging.INFO,
-# )
+logging.basicConfig(
+    format="%(asctime)s --- SpaceX Swap --- %(message)s",
+    level=logging.INFO,
+)
 
 
 def save_on_ws_close(user_data: UserApp):
