@@ -7,7 +7,7 @@ from websocket.utils.mongo_handler import users
 
 
 def app_login(user_id: int, ip):
-    user = json.loads(json_util.dumps(users.find_one({"user_id": user_id})))
+    # user = json.loads(json_util.dumps(users.find_one({"user_id": user_id})))
     users.update_one({"user_id": user_id}, {
         '$addToSet': {'ip': ip},
         "last_online": time.time(),

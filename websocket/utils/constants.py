@@ -1,3 +1,5 @@
+import uuid
+
 from websocket.utils.game_types import ReferralLeagueData, TaskData
 
 LEVELS = {

@@ -22,8 +22,10 @@ def new_user_bot(user_id: int, user_name: str, name: str, ref_id: int = None):
         limit=1,
         speed=1,
         tap_bot=False,
+
         balance=0,
         total_click=0,
+
         rewards=0,
         ref_direct_rewards=0,
         guru_left=3,
@@ -32,7 +34,9 @@ def new_user_bot(user_id: int, user_name: str, name: str, ref_id: int = None):
         ref_from_id=ref_id,
         ref_to=[],
         is_guru=False,
-        end_guru=None
+        end_guru=None,
+        task_check=[],
+        task_claim=[]
     )
     users.insert_one(user)
     return True

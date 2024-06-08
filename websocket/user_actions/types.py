@@ -1,7 +1,9 @@
 from websocket.utils.game_types import TaskData
 from websocket.utils.storage_types import *
 
+
 class UserApp(TypedDict):
+    _id: NotRequired[None]
     user_id: int
     name: str
     user_name: str | None
@@ -29,5 +31,5 @@ class UserApp(TypedDict):
     ref_to: list[int]
     is_guru: bool
     end_guru: float | None
-    task_check: NotRequired[list[int]]
-    task_claim: NotRequired[list[int]]
+    task_check: NotRequired[list[str]]
+    task_claim: NotRequired[list[str]]

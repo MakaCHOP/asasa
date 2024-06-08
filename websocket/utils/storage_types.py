@@ -1,6 +1,6 @@
 from typing import TypedDict, NotRequired
 
-from websocket.utils.game_types import ReferralLeagueData
+from websocket.utils.game_types import ReferralLeagueData, TaskData
 from websocket.topics.refferral import RefData
 
 

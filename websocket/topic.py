@@ -16,7 +16,7 @@ class Topics(Enum):
     BOOST = "boost"
     TASKS = "tasks"
     REFERRAL = "referral"
-    TASKS_STATUS = "task status"
+    TASKS_STATUS = "tasks status"
     CLAIM_TASK = "claim task"
     UPGRADE = "upgrade"
     TAP = "tap"

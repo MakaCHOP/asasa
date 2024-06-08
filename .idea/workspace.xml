@@ -4,56 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0ef53cee-47dd-4234-9d01-c4c29410b56d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/SamiApp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/forwardedPorts.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GameEngine/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TelegramBot/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TelegramBot/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TelegramBot/templates/template_messages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/initilizers/WebApp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/initilizers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/emitters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/response_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/topics/balance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/topics/boost.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/topics/energy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/topics/refferral.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/topics/stats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/topics/tasks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/user_actions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/user_actions/app_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/user_actions/new_user.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/user_actions/types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/user_actions/utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/utils/constants.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/utils/game_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/utils/mongo_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/websocket/utils/storage_types.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/.env" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Socket/topics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Socket/topics.py" afterDir="false" />
+    <list default="true" id="0ef53cee-47dd-4234-9d01-c4c29410b56d" name="Changes" comment="hey im alive">
+      <change afterPath="$PROJECT_DIR$/WebApp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/build/asset-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/build/asset-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApp/build/static/css/main.81dbd9f7.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/build/static/css/main.81dbd9f7.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/build/static/css/main.81dbd9f7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/build/static/css/main.81dbd9f7.css.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/build/static/js/main.650c0315.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/build/static/js/main.650c0315.js.LICENSE.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/build/static/js/main.650c0315.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApp/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/initilizers/WebApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/initilizers/WebApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/emitters.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/emitters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/topic.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/topic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/user_actions/app_auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/user_actions/app_auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/user_actions/new_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/user_actions/new_user.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/user_actions/types.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/user_actions/types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/user_actions/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/user_actions/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/utils/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/utils/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/websocket/utils/storage_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/websocket/utils/storage_types.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,6 +77,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;aDefault&quot;,
     &quot;ts.external.directory.path&quot;: &quot;/root/PycharmProjects/SamiApp/WebApp/node_modules/typescript/lib&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -115,22 +89,22 @@
       <window_info id="Commit_Guest" show_stripe_button="false" />
       <window_info id="Pull Requests" show_stripe_button="false" />
       <window_info id="Learn" show_stripe_button="false" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10963541" />
-      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16796875" />
+      <window_info id="Commit" order="1" weight="0.21380208" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
       <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
       <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32994187" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3302619" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32994187" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.44718993" />
-      <window_info anchor="bottom" id="Find" order="6" weight="0.32994187" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.43362403" />
+      <window_info anchor="bottom" id="Find" order="8" weight="0.32994187" />
       <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
       <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
       <window_info anchor="right" id="SciView" show_stripe_button="false" />
@@ -190,13 +164,55 @@
       <option name="presentableId" value="Default" />
       <updated>1717761173618</updated>
       <workItem from="1717761174812" duration="16720000" />
+      <workItem from="1717810884342" duration="19814000" />
+      <workItem from="1717846905503" duration="1097000" />
     </task>
+    <task id="LOCAL-00001" summary="hey im alive">
+      <option name="closed" value="true" />
+      <created>1717813114188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1717813114188</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="hey im alive" />
+    <option name="LAST_COMMIT_MESSAGE" value="hey im alive" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/websocket/user_actions/utils.py</url>
+          <line>61</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/websocket/user_actions/utils.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/SamiApp$main.coverage" NAME="main Coverage Results" MODIFIED="1717797544702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/SamiApp$main.coverage" NAME="main Coverage Results" MODIFIED="1717847929186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
